@@ -5,4 +5,5 @@ matplotlib
 scikit-learn
 catboost
 xgboost
+flask
 -e . #to run/trigger the setup.py file automatically
